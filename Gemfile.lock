@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    todolist (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -21,6 +26,7 @@ DEPENDENCIES
   minitest-reporters (~> 1.1)
   rake
   stamp (~> 0.6.0)
+  todolist!
 
 RUBY VERSION
    ruby 2.7.6p219
